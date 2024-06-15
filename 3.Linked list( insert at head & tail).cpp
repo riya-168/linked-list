@@ -1,4 +1,4 @@
-//creation of linked-list
+//Insertion at head & tail
 #include<bits/stdc++.h>
 using namespace std;
 class Node
